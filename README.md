@@ -19,7 +19,7 @@ https://dl.acm.org/doi/abs/10.1145/3639478.3643110
 
 <div align = "center">
   <p>The pipeline for our proposed multi-step approach</p>
-  <img src="https://github.com/user-attachments/assets/6585c873-5b9e-4cc2-9326-3ab138fd09a5" alt="Sample Image" width="700" height="350">
+  <img src="https://github.com/user-attachments/assets/6585c873-5b9e-4cc2-9326-3ab138fd09a5" alt="Sample Image" width="800" height="350">
 </div>
 
 <div align = "center">
